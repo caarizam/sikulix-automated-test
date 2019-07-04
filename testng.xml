@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Visual Test Validation">
+    <parameter name="url"  value="https://www.prodigious.com"/>
+    <test verbose="2" name="Visual Test Validation">
+        <classes>
+            <class name="org.visual.test.runner.TestRunner"/>
+        </classes>
+    </test> <!-- Default test -->
+</suite> <!-- Default suite -->
