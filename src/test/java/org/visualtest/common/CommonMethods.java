@@ -1,4 +1,4 @@
-package org.visual.test.common;
+package org.visualtest.common;
 
 public class CommonMethods {
 
